@@ -18,9 +18,9 @@ def numeros(z):
     return z
 
 numeros(z)
-parametro(result_2,2,z)
-parametro(result_3,3,z)
-parametro(result_4,4,z)
+parametro(result_2,2,*z)
+parametro(result_3,3,*z)
+parametro(result_4,4,*z)
 
 print (result_2)
 print (result_3)
