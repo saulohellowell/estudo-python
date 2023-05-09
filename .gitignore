@@ -1,3 +1,10 @@
- .vscode/        
+# Local Hidden Files
+.vscode/ 
+.DS_Store
+# Non-Code Folder and Files
+curso_py_om/curso_py_om.code-workspace       
 listacompras.txt
+curso_py_om/venv/
+execercicios/
+
         
